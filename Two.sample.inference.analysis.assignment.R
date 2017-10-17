@@ -89,4 +89,4 @@ t.test(A,B, alternative = "two.sided", var.equal = T) #pvalue is low which means
 
 #Conclusion:
 #Garden A and B are assumed to be normal dist. thanks to qqplot and Shapiro Test. 
-#Their variances are found to be equal. Their means are found to be significantly different. 
+#Their variances are found to be equal. Their means are found to be significantly different. Since p values were low
