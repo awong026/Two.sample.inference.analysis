@@ -38,7 +38,7 @@ d<- x-y
 qqnorm(d)
 shapiro.test(d) #Can't reject normal since pvalue over .05
 
-#Since we can't reject normal dist. we can use t-test
+#Since we can't reject normal dist. We can use t-test
 
 mean(d)
 var(d)
